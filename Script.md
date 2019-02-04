@@ -30,4 +30,4 @@ The end.
 * Young Boy: George
 * Unicorn King: Alan
 * Zookeeper: New Zookeeper
-* Friendly Koala: Mike
+* Friendly Koala: John
